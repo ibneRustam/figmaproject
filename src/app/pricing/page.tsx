@@ -6,7 +6,7 @@ export default function features () {
     return (
         <div className="text-center  mt-14">
            <h1 className="text-blue-950 text-4xl font-bold"> Pricing </h1>
-           <section className="bg-blue-950 text-center text-white mt-6">
+           <section className="bg-blue-950 text-center text-white mt-6 bg-[url('/contact.PNG')] bg-cover">
   <br></br>
   <div className="mt-20 mx-96">
     <h2 className="text-3xl font-bold">Plans & Pricing</h2>
